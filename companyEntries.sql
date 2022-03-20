@@ -1,4 +1,4 @@
-/*USE Company;
+USE Company;
 
 INSERT INTO regions (regionId,regionName) 
 VALUES
